@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td>🤖</td>
-      <td><strong>Machine Learning Enthusiast</strong> - Passionate about building intelligent systems that solve real-world problems</td>
+      <td><strong>Web Developer</strong> - Passionate about building intelligent systems that solve real-world problems</td>
     </tr>
     <tr>
       <td>💻</td>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>🤝</td>
-      <td><strong>Collaboration Ready</strong> - Open to exciting projects in ML, AI, and beyond</td>
+      <td><strong>Collaboration Ready</strong> - Open to exciting projects in Web, Mobile, and IOT</td>
     </tr>
     <tr>
       <td>🌟</td>
