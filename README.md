@@ -56,27 +56,37 @@
 
 <div align="center">
 
-### **AI & Machine Learning**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" title="Jupyter"/>
+### **UI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/>
 
-### **Systems Programming**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" alt="C++" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="C" title="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust"/>
 
-### **Hardware & IoT**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="Arduino" title="Arduino"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="Raspberry Pi" title="Raspberry Pi"/>
 
-### **DevOps & Tools**
+
+### **BackEnd**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase"/>
+
+
+### **Framework**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" title="Flutter"/>
+
+
+### **Tools**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="Docker" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="Git" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="50" alt="Heroku" title="Heroku"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman"/>
+
+
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code"/>
+
+<!-- Android Studio -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" title="Android Studio"/>
+
+
 
 </div>
 
